@@ -41,16 +41,16 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
   </tr>
   <tr>
     <td>
-      <div class='names'>[Rob van der Goot](http://www.robvandergoot.com/)</div>
+      <div class='names'><a href="http://www.robvandergoot.com/">Rob van der Goot</a></div>
     </td>
     <td>
-      <div class='names'>[Ahmet Üstün](https://ahmetustun.github.io/)</div>
+      <div class='names'><a href="https://ahmetustun.github.io">Ahmet Üstün</a></div>
     </td>
     <td>
-      <div class='names'>[Alan Ramponi](https://alanramponi.github.io/)</div>
+      <div class='names'><a href="https://alanramponi.github.io/">Alan Ramponi</a></div>
     </td>
     <td>
-      <div class='names'>[Barbara Plank](https://alanramponi.github.io/)</div>
+      <div class='names'><a href="https://bplank.github.io/">Barbara Plank</a></div>
     </td>
   </tr>
 </table>
