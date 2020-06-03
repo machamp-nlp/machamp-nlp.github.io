@@ -5,6 +5,23 @@ This websites introduces MaChAmp and provides an overview of code and papers tha
 </div>
 
 
+## Papers
+
+### Massive Choice, Ample Tasks (MaChAmp):A Toolkit for Multi-task Learning in NLP
+
+Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
+
+#### ArXiv
+<blockquote>
+    <div style="text-align: justify">
+        Transfer learning, particularly approaches that combine multi-task learning with pre-trained contextualized embeddings and fine-tuning, have advanced the field of Natural Language Processing tremendously in recent years. In this paper we present MaChAmp, a toolkit for easy use of fine-tuning BERT-like models in multi-task settings. The benefits of MaChAmp are its flexible configuration options, and the support of a variety of NLP tasks in a uniform toolkit, from text classification to sequence labeling and dependency parsing.
+    </div> 
+</blockquote>
+* [pdf](https://arxiv.org/abs/2005.14672)
+* [code](https://github.com/machamp-nlp/machamp)
+
+
+
 ## Contributors
 
 <table id='contributor-table'>
@@ -38,19 +55,7 @@ This websites introduces MaChAmp and provides an overview of code and papers tha
   </tr>
 </table>
 
-## Papers
-
-### Massive Choice, Ample Tasks (MaChAmp):A Toolkit for Multi-task Learning in NLP
-
-Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
-
-#### ArXiv
-<blockquote>
-    <div style="text-align: justify">
-        Transfer learning, particularly approaches that combine multi-task learning with pre-trained contextualized embeddings and fine-tuning, have advanced the field of Natural Language Processing tremendously in recent years. In this paper we present MaChAmp, a toolkit for easy use of fine-tuning BERT-like models in multi-task settings. The benefits of MaChAmp are its flexible configuration options, and the support of a variety of NLP tasks in a uniform toolkit, from text classification to sequence labeling and dependency parsing.
-    </div> [pdf](https://arxiv.org/abs/2005.14672) | [code](https://github.com/machamp-nlp/machamp)
-</blockquote>
-
-
+### Credits
+<p>
 <small>Website adapted from: <a href="https://continual-vista.github.io/">https://continual-vista.github.io/</a></small>
-
+</p>
