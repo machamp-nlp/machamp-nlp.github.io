@@ -7,7 +7,7 @@ This websites introduces MaChAmp and provides an overview of code and papers tha
 
 ## Papers
 
-### Massive Choice, Ample Tasks (MaChAmp):A Toolkit for Multi-task Learning in NLP
+### Massive Choice, Ample Tasks (MaChAmp): A Toolkit for Multi-task Learning in NLP
 
 Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
 
