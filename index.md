@@ -1,7 +1,7 @@
 ## Welcome
 
 <div style="text-align: justify">
-    This website accompanies the Massive Choice, Ample Tasks (MaChAmp) project, which introduces a Toolkit for Multi-task Learning in NLP. 
+This websites introduces MaChAmp and provides an overview of code and papers that use MaChAmp.	 
 </div>
 
 
@@ -10,7 +10,7 @@
 <table id='contributor-table'>
   <tr>
     <td>
-      <img class="headshots" src='images/rob.jpb' alt='Rob van der Goot'>
+      <img class="headshots" src='images/rob.jpg' alt='Rob van der Goot'>
     </td>
     <td>
       <img class="headshots" src='images/ahmet.jpg' alt='Ahmet Üstün'>
