@@ -55,6 +55,17 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
   </tr>
 </table>
 
+## Acknowledgments
+
+This research was supported by an <a href="https://ara.amazon-ml.com/recipients/#2018">Amazon Research Award</a>, an STSM in the Multi3Generation
+COST action (CA18231), a visit supported by
+COSBI, grant 9063-00077B (Danmarks Frie
+Forskningsfond), and Nvidia corporation for sponsoring Titan GPUs. We thank the NLPL laboratory
+and the HPC team at ITU for the computational
+resources used in this work.
+
+<br>
+<br>
 ### Credits
 <p>
 <small>Website adapted from: <a href="https://continual-vista.github.io/">https://continual-vista.github.io/</a></small>
