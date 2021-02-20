@@ -20,9 +20,6 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf and Barbara Plank
 * [pdf](https://arxiv.org/abs/2005.14672)
 * [code](https://github.com/machamp-nlp/machamp)
 
-## Papers that use MaChAmp
-
-* [Nested NER and Lexical Normalization for Danish](https://www.aclweb.org/anthology/2020.coling-main.583/)
 
 ## Contributors
 
@@ -54,7 +51,6 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf and Barbara Plank
     <td>
       <div class='names'><a href="https://alanramponi.github.io/">Alan Ramponi</a></div>
     </td>
-     </td>
       <td>
       <img class="names"><a href="#">Ibrahim Sharaf</a></div>
     </td>
@@ -75,6 +71,12 @@ resources used in this work.
 
 <br>
 <br>
+
+## Papers that use MaChAmp
+
+* [Nested NER and Lexical Normalization for Danish](https://www.aclweb.org/anthology/2020.coling-main.583/)
+
+
 ### Credits
 <p>
 <small>Website adapted from: <a href="https://continual-vista.github.io/">https://continual-vista.github.io/</a></small>
