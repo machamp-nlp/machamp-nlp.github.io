@@ -5,22 +5,24 @@ This websites introduces MaChAmp and provides an overview of code and papers tha
 </div>
 
 
-## Papers
+## Main reference
 
 ### Massive Choice, Ample Tasks (MaChAmp): A Toolkit for Multi-task Learning in NLP
 
-Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
+Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf and Barbara Plank
 
-#### ArXiv
+#### EACL 2021, demo track
 <blockquote>
     <div style="text-align: justify">
-        Transfer learning, particularly approaches that combine multi-task learning with pre-trained contextualized embeddings and fine-tuning, have advanced the field of Natural Language Processing tremendously in recent years. In this paper we present MaChAmp, a toolkit for easy use of fine-tuning BERT-like models in multi-task settings. The benefits of MaChAmp are its flexible configuration options, and the support of a variety of NLP tasks in a uniform toolkit, from text classification to sequence labeling and dependency parsing.
+        Transfer learning, particularly approaches that combine multi-task learning with pre-trained contextualized embeddings and fine-tuning, have advanced the field of Natural Language Processing tremendously in recent years. In this paper we present MaChAmp, a toolkit for easy fine-tuning of contextualized embeddings in multi-task settings. The benefits of MaChAmp are its flexible configuration options, and the support of a variety of natural language processing tasks in a uniform toolkit, from text classification and sequence labeling to dependency parsing, masked language modeling, and text generation. 
     </div> 
 </blockquote>
 * [pdf](https://arxiv.org/abs/2005.14672)
 * [code](https://github.com/machamp-nlp/machamp)
 
+## Papers that use MaChAmp
 
+* [Nested NER and Lexical Normalization for Danish](https://www.aclweb.org/anthology/2020.coling-main.583/)
 
 ## Contributors
 
