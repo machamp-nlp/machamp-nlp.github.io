@@ -52,7 +52,7 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf and Barbara Plank
       <div class='names'><a href="https://alanramponi.github.io/">Alan Ramponi</a></div>
     </td>
       <td>
-      <img class="names"><a href="#">Ibrahim Sharaf</a></div>
+      <img class='names'><a href="https://www.linkedin.com/in/ibrahimsharafelden/">Ibrahim Sharaf</a></div>
     </td>
     <td>
       <div class='names'><a href="https://bplank.github.io/">Barbara Plank</a></div>
