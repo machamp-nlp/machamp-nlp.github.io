@@ -35,6 +35,9 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
     <td>
       <img class="headshots" src='images/alan.jpg' alt='Alan Ramponi'>
     </td>
+      <td>
+      <img class="headshots" src='images/ibrahim.jpg' alt='Ibrahim Sharaf'>
+    </td>
     <td>
       <img class="headshots" src='images/barbara.jpg' alt='Barbara Plank'>
     </td>
@@ -48,6 +51,10 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Barbara Plank
     </td>
     <td>
       <div class='names'><a href="https://alanramponi.github.io/">Alan Ramponi</a></div>
+    </td>
+     </td>
+      <td>
+      <img class="names"><a href="#">Ibrahinm Sharaf</a></div>
     </td>
     <td>
       <div class='names'><a href="https://bplank.github.io/">Barbara Plank</a></div>
