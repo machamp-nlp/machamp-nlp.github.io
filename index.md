@@ -77,7 +77,7 @@ resources used in this work.
 * [Nested NER and Lexical Normalization for Danish](https://www.aclweb.org/anthology/2020.coling-main.583/)
 
 
-### Credits
+<!-- ### Credits
 <p>
 <small>Website adapted from: <a href="https://continual-vista.github.io/">https://continual-vista.github.io/</a></small>
-</p>
+</p>--> 
