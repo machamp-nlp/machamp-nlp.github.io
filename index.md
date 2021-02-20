@@ -35,7 +35,7 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf and Barbara Plank
       <img class="headshots" src='images/alan.jpg' alt='Alan Ramponi'>
     </td>
       <td>
-      <img class="headshots" src='images/ibrahim.jpg' alt='Ibrahim Sharaf'>
+      <img class="headshots" src='images/ibrahim.jpg' alt='Ibrahim Sharaf' width=200>
     </td>
     <td>
       <img class="headshots" src='images/barbara.jpg' alt='Barbara Plank'>
