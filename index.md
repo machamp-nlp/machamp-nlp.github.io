@@ -18,8 +18,8 @@ Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf and Barbara Plank
     </div> 
 </blockquote>
 * [pdf](https://arxiv.org/abs/2005.14672)
-* [code](https://github.com/machamp-nlp/machamp)
-
+* [code with extensive README](https://github.com/machamp-nlp/machamp)
+* [tutorial video](https://www.youtube.com/watch?v=DauTEdMhUDI)
 
 ## Contributors
 
@@ -74,8 +74,32 @@ resources used in this work.
 
 ## Papers that use MaChAmp
 
-* [Nested NER and Lexical Normalization for Danish](https://www.aclweb.org/anthology/2020.coling-main.583/)
+### v0.1
 
+* [Biomedical Event Extraction as Sequence Labeling](https://www.aclweb.org/anthology/2020.emnlp-main.431/) (EMNLP 2020)
+* [Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT](https://www.aclweb.org/anthology/2020.emnlp-main.371/) (EMNLP 2020)
+* [DaN+: Danish Nested Named Entities and Lexical Normalization](https://www.aclweb.org/anthology/2020.coling-main.583/) (Coling 2020)
+
+### v0.2
+
+* [Challenges in Annotating and Parsing Spoken, Code-switched, Frisian-Dutch Data](https://robvanderg.github.io/doc/adapt-nlp2021.2.pdf) (Adapt-NLP 2021)
+* [Lexical Normalization for Code-switched Data and its Effect on POS-tagging](https://arxiv.org/abs/2006.01175) (EACL 2021)
+* From Masked-Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding (NAACL 2021)
+
+
+## Citation
+```
+@inproceedings{vandergoot-etal-2020-machamp,
+    title={Massive {C}hoice, {A}mple Tasks ({MaChAmp}): A Toolkit for Multi-task Learning in {NLP}},
+    author={Rob van der Goot and Ahmet {\"U}st{\"u}n and Alan Ramponi and Sharaf, Ibrahim and Barbara Plank},
+    booktitle = "Proceedings of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics: Volume 1, Long Papers",
+    month = feb,
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+}
+
+
+```
 
 <!-- ### Credits
 <p>
