@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header{
+background-image: images/machamp.png;
+}
+
 .headshots {
   border-radius: 50%;
   float: middle; 
