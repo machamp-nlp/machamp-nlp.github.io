@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header{
-background-image: images/machamp.png;
+background-image: url(images/machamp.png);
 }
 
 .headshots {
