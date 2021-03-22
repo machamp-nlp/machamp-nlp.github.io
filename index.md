@@ -1,4 +1,4 @@
-## Welcome
+## Welcomee
 
 <div style="text-align: justify">
 This websites introduces MaChAmp and provides an overview of code and papers that use MaChAmp.	 
