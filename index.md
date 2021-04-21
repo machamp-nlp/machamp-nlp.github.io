@@ -13,6 +13,9 @@ This websites introduces MaChAmp and provides an overview of code and papers tha
 * [pdf](https://arxiv.org/abs/2005.14672)
 * [code with extensive README](https://github.com/machamp-nlp/machamp)
 * [tutorial video](https://www.youtube.com/watch?v=DauTEdMhUDI)
+* [pretrained models (UD)](https://github.com/machamp-nlp/machamp/blob/master/docs/models.md)
+* [poster](https://robvanderg.github.io/doc/eacl2021.demo.poster.pdf)
+* [slides](https://robvanderg.github.io/doc/eacl2021.demo.slides.pdf)
 
 ## Contributors
 
