@@ -79,21 +79,28 @@ resources used in this work.
 ### v0.2
 
 * [Challenges in Annotating and Parsing Spoken, Code-switched, Frisian-Dutch Data](https://robvanderg.github.io/doc/adapt-nlp2021.2.pdf) (Adapt-NLP 2021)
-* [Lexical Normalization for Code-switched Data and its Effect on POS-tagging](https://arxiv.org/abs/2006.01175) (EACL 2021)
-* From Masked-Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding (NAACL 2021)
+* [Lexical Normalization for Code-switched Data and its Effect on POS-tagging](https://www.aclweb.org/anthology/2021.eacl-main.200.pdf) (EACL 2021)
+* [From Masked-Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding](https://www.aclweb.org/anthology/2021.naacl-main.197.pdf) (NAACL 2021)
+* [De-identification of Privacy-related Entities in Job Postings](https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=178&Article_No=21) (NoDaLiDa 2021)
 
 
 ## Citation
 ```
-@inproceedings{vandergoot-etal-2020-machamp,
-    title={Massive {C}hoice, {A}mple Tasks ({MaChAmp}): A Toolkit for Multi-task Learning in {NLP}},
-    author={Rob van der Goot and Ahmet {\"U}st{\"u}n and Alan Ramponi and Sharaf, Ibrahim and Barbara Plank},
-    booktitle = "Proceedings of the Software Demonstrations of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics",
-    month = feb,
+@inproceedings{van-der-goot-etal-2021-massive,
+    title = "Massive Choice, Ample Tasks ({M}a{C}h{A}mp): A Toolkit for Multi-task Learning in {NLP}",
+    author = {van der Goot, Rob  and
+      {\"U}st{\"u}n, Ahmet  and
+      Ramponi, Alan  and
+      Sharaf, Ibrahim  and
+      Plank, Barbara},
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations",
+    month = apr,
     year = "2021",
+    address = "Online",
     publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-demos.22",
+    pages = "176--197",
 }
-
 
 ```
 
