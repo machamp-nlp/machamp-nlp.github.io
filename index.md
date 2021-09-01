@@ -1,7 +1,7 @@
 ## Massive Choice, Ample Tasks (MaChAmp)
 
 <div style="text-align: justify">
-This websites introduces MaChAmp and provides an overview of code and papers that use MaChAmp.	We are proud to annouce that MaChAmp has received an <b>EMNLP 2021 outstanding paper award (demo track)!</b>
+This websites introduces MaChAmp and provides an overview of code and papers that use MaChAmp.	We are proud to annouce that MaChAmp has received an <b>EACL 2021 outstanding paper award (demo track)!</b>
 </div>
 
 ## Abstract
