@@ -82,6 +82,8 @@ resources used in this work.
 * [Lexical Normalization for Code-switched Data and its Effect on POS-tagging](https://www.aclweb.org/anthology/2021.eacl-main.200.pdf) (EACL 2021)
 * [From Masked-Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding](https://www.aclweb.org/anthology/2021.naacl-main.197.pdf) (NAACL 2021)
 * [De-identification of Privacy-related Entities in Job Postings](https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=178&Article_No=21) (NoDaLiDa 2021)
+* [Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts](https://aclanthology.org/2021.findings-acl.158/) (ACL 2021 Findings)
+* [Genre as Weak Supervision for Cross-lingual Dependency Parsing](https://aclanthology.org/2021.emnlp-main.393.pdf) (EMNLP 2021)
 
 
 ## Citation
